@@ -7,5 +7,3 @@ RUN apt-get update \
     ln -s /usr/bin/yui-compressor /usr/bin/yuicompressor \
     apt-get install closure-compiler -y \
     pip install awscli
-
-CMD ["/bin/sh"]
