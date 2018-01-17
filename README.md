@@ -1,2 +1,2 @@
 # docker-debian-jessie-cactus
-Debian Jessie, Cactus static site framework, Yui-compressor, Closure-compiler
+Debian Jessie, Cactus python-based static website framework, Yui-compressor, Closure-compiler, Awscli, S3cmd
